@@ -21,7 +21,7 @@ The **Job Tracker App** is a Python-based desktop application that helps users m
 ## Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/pjk19942/JopTrackerApp.git
+   git clone https://github.com/pjk19942/JobTrackerApp.git
    cd job-tracker-app
    ```
 2. **Install dependencies**:
@@ -30,7 +30,7 @@ The **Job Tracker App** is a Python-based desktop application that helps users m
    ```
 3. **Run the application**:
    ```sh
-   python job_tracker.py
+   python JobTrackerApp.py
    ```
 
 ## Usage
